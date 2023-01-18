@@ -98,3 +98,4 @@ document.querySelector("#info-button").addEventListener("click", function (e) {
 - Git
   - Make sure it was added to the PATH on installation
   - File > Preferences > Settings > Search for "git.path", edit in settings.json, add path to the local Git installation.
+- Set VS Code default shell CTRL+SHIFT+P > Search "Default Shell" and hit Enter > Select "bash"
